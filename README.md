@@ -1,16 +1,60 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Jayaram Behara</h1>
 
-<!--
-**Jayarambehara/Jayarambehara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+🚀 Multi-Cloud DevOps Engineer | AWS ☁️ | Azure 🔷 | Kubernetes ⚓
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Multi-Cloud+DevOps+Engineer;AWS+%7C+Azure+%7C+Kubernetes;CI%2FCD+Automation+Specialist;Infrastructure+as+Code+Expert;Cloud+Native+Enthusiast" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jayarambehara&label=Profile%20Views&color=0e75b6&style=flat" alt="Jayarambehara" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Jayarambehara&theme=tokyonight&row=1&column=7" alt="trophies" />
+  </a>
+</p>
+
+---
+
+<img align="right" alt="DevOps Engineer" width="350" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+
+# 🚀 About Me
+
+- ☁️ Multi-Cloud DevOps Engineer specializing in **AWS & Azure**
+- ⚙️ Skilled in **CI/CD, Automation, Infrastructure as Code**
+- 🐳 Passionate about **Docker & Kubernetes**
+- 🔧 Experienced with **Terraform, Ansible, Jenkins**
+- 🐧 Linux enthusiast & automation lover
+- 📚 Currently learning advanced Kubernetes & Cloud Native tools
+- 🚀 Building scalable and resilient infrastructure
+- 🤝 Open to collaborating on Multi-Cloud & DevOps Projects
+
+---
+
+# 🛠️ Tech Stack
+
+## ☁️ Cloud Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,azure" />
+</p>
+
+## ⚙️ DevOps & Automation
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,git,jenkins,docker,kubernetes,ansible,terraform,bash" />
+</p>
+
+## 💻 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=github,vscode" />
+</p>
+
+---
+
+# 🔥 DevOps Lifecycle
+
+```text
+Plan → Code → Build → Test → Deploy → Monitor → Scale 🚀
