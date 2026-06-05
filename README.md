@@ -58,3 +58,54 @@
 
 ```text
 Plan → Code → Build → Test → Deploy → Monitor → Scale 🚀
+---
+
+# 🚀 Featured Projects
+
+## 🔹 End-to-End CI/CD Pipeline
+*Tools:* Git, GitHub, Jenkins, Maven, Nexus, Tomcat
+
+*Highlights:*
+- Automated build and deployment pipeline
+- Artifact management using Nexus
+- Continuous deployment to Tomcat servers
+
+---
+
+## 🔹 Containerized Application Deployment
+*Tools:* Docker, Linux
+
+*Highlights:*
+- Dockerized Java applications
+- Image creation and container management
+- Environment consistency across deployments
+
+---
+
+## 🔹 Kubernetes Application Deployment
+*Tools:* Kubernetes, Docker
+
+*Highlights:*
+- Deployments, Services and ConfigMaps
+- Rolling updates and scaling
+- Container orchestration
+
+---
+
+## 🔹 AWS Infrastructure Automation
+*Tools:* AWS, Terraform
+
+*Highlights:*
+- EC2 provisioning through Terraform
+- Infrastructure as Code implementation
+- Reusable Terraform modules
+
+---
+
+## 🔹 Linux Administration & Shell Scripting
+*Tools:* Linux, Bash
+
+*Highlights:*
+- User and permission management
+- Process monitoring
+- Automation scripts for daily operations
